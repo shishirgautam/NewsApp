@@ -56,4 +56,7 @@ dependencies {
 //
     implementation 'com.littlemango:stacklayoutmanager:1.0.5'
 
+//Google Mobile Ads SDK
+    implementation 'com.google.android.gms:play-services-ads:19.4.0'
+
 }
